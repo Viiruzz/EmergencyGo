@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Emergency Go!</string>̣
+    <string name="subrayar"><u>¿No estás registrado?</u></string>
+    <string name="emergency">En caso de emergencia pulsa el botón para mostrar en una ventana el mapa con los hospitales más cercanos sin necesidad de crear o ingresar a su cuenta.</string>
+    <string name="title_activity_principal">Página Principal</string>
+    <string name="navigation_drawer_open">Abre el panel de navegación</string>
+    <string name="navigation_drawer_close">Cierra el panel de navegación</string>
+    <string name="nav_header_title">Hola de nuevo</string>
+    <string name="nav_header_subtitle"></string>
+    <string name="nav_header_desc">Panel de Navegación</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Mapa de Hospitales</string>
+    <string name="menu_slideshow">Listado de Hospitales</string>
+    <string name="menu_tools">Herramientas</string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_send">Emergencia</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoidmlpcnV6eiIsImEiOiJjanp4Z3B1Y20wYzZlM2RxaTRvZDluaGtvIn0.XKGPimrvBq91YzNHe9ZDCw</string>
+
+    <string name="info_reg">Advertencia: Tus datos solo podrán ser eliminados por un administrador.</string>
+</resources>
